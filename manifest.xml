@@ -1,7 +1,7 @@
 <package>
-  <description brief="ORB_SLAM">
+  <description brief="ORBSLAM1_forked_by_lichao">
 
-     ORB_SLAM
+     ORBSLAM1_forked_by_lichao
 
   </description>
   <author>Raul Mur-Artal</author>
@@ -9,7 +9,7 @@
   <depend package="roscpp"/>
   <depend package="tf"/>
   <depend package="sensor_msgs"/>
-  <depend package="opencv2"/>
+  <!-- <depend package="opencv2"/> -->
   <depend package="image_transport"/>
   <depend package="cv_bridge"/>
 
